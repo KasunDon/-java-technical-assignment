@@ -1,6 +1,6 @@
 package kata.supermarket.promotion.model;
 
-public final class PromotionCriteria {
+public class PromotionCriteria {
 
     private final long value;
     private final PromotionType promotionType;
